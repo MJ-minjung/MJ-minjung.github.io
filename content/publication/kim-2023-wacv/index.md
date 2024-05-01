@@ -2,7 +2,7 @@
 title: Feature Disentanglement Learning With Switching and Aggregation for Video-Based
   Person Re-Identification
 authors:
-- Minjung Kim
+- admin
 - MyeongAh Cho
 - Sangyoun Lee
 date: '2023-01-01'
