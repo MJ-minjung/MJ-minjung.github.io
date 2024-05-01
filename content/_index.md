@@ -77,6 +77,21 @@ sections:
 #          description: Taught electronic engineering and researched semiconductor physics.
 #    design:
 #      columns: '2'
+  - block: collection
+    content:
+      title: Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '1'
+      view: citation
+    
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -174,20 +189,6 @@ sections:
 #    design:
 #      columns: '2'
 #      view: card
-  - block: collection
-    content:
-      title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
 #  - block: collection
 #    id: talks
 #    content:
@@ -213,18 +214,18 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: mjkima00@gmail.com
       phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      # appointment_url: 'https://calendly.com'
+      # address:
+      #  street: 450 Serra Mall
+      #  city: Stanford
+      #  region: CA
+      #  postcode: '94305'
+      #  country: United States
+      #  country_code: US
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       # coordinates:
       #  latitude: '37.4275'
