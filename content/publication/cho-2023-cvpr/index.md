@@ -3,7 +3,7 @@ title: 'Look Around for Anomalies: Weakly-Supervised Anomaly Detection via Conte
   Relational Learning'
 authors:
 - MyeongAh Cho
-- Minjung Kim
+- admin
 - Sangwon Hwang
 - Chaewon Park
 - Kyungjae Lee
@@ -14,4 +14,5 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
   Recognition (CVPR)*'
+featured: true
 ---
