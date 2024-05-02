@@ -14,4 +14,8 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2401.16189
 featured: true
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 ---
