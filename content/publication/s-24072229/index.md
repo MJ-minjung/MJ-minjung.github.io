@@ -3,7 +3,7 @@ title: Multi-Granularity Aggregation with Spatiotemporal Consistency for Video-B
   Person Re-Identification
 authors:
 - Hean Sung Lee
-- Minjung Kim
+- admin
 - Sungjun Jang
 - Han Byeol Bae
 - Sangyoun Lee
@@ -15,4 +15,5 @@ publication: '*Sensors*'
 links:
 - name: URL
   url: https://www.mdpi.com/1424-8220/24/7/2229
+featured: true
 ---
