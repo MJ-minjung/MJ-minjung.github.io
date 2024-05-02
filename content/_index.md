@@ -54,7 +54,7 @@ sections:
         featured_only: true
     design:
       columns: '1'
-      view: citation
+      view: compact
     
   - block: collection
     content:
