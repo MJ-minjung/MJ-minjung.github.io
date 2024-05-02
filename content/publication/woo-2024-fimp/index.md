@@ -2,7 +2,7 @@
 title: 'FIMP: Future Interaction Modeling for Multi-Agent Motion Prediction'
 authors:
 - Sungmin Woo
-- Minjung Kim
+- admin
 - Donghyeong Kim
 - Sungjun Jang
 - Sangyoun Lee
@@ -13,4 +13,5 @@ publication_types:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2401.16189
+featured: true
 ---
