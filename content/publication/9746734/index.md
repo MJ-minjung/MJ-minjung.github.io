@@ -2,7 +2,7 @@
 title: Occluded Person Re-Identification Via Relational Adaptive Feature Correction
   Learning
 authors:
-- Minjung Kim
+- admin
 - MyeongAh Cho
 - Heansung Lee
 - Suhwan Cho
@@ -17,4 +17,5 @@ doi: 10.1109/ICASSP43922.2022.9746734
 tags:
 - Adaptive systems;Conferences;Focusing;Interference;Signal processing;Benchmark testing;Cameras;Occluded
   Person Re-Identification;Relation Network;Person Re-Identification;Deep Learning
+featured: true
 ---
