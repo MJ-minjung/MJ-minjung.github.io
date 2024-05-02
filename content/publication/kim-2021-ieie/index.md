@@ -1,7 +1,7 @@
 ---
 title: Semantic Segmentation Using Class Distribution Information
 authors:
-- Minjung Kim
+- admin
 - Hyungmin and Lee
 - Taeoh Kim
 - Sangyoun Lee
@@ -10,4 +10,5 @@ publishDate: '2024-05-02T14:49:52.409629Z'
 publication_types:
 - manuscript
 publication: '*Summer Annual Conference of IEIE*'
+featured: true
 ---
