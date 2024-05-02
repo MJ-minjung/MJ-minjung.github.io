@@ -54,7 +54,7 @@ sections:
         featured_only: true
     design:
       columns: '1'
-      view: compact
+      view: list
     
 #  - block: collection
 #    content:
