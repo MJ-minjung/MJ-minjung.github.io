@@ -60,6 +60,7 @@ sections:
     id: featured
     content:
       title: Publications
+      count: 30
     design:
       columns: '1'
       view: compact
