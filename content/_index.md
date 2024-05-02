@@ -44,22 +44,23 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
     
+ # - block: collection
+ #   id: featured
+ #   content:
+ #     title: Publications
+ #     filters:
+ #       folders:
+ #         - publication
+ #       featured_only: true
+ #   design:
+ #     columns: '1'
+ #     view: list
+    
   - block: collection
     id: featured
     content:
       title: Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
     design:
       columns: '1'
-      view: list
-    
-#  - block: collection
-#    content:
-#      title: Publications
-#    design:
-#      columns: '1'
-#      view: citation
+      view: compact
 ---
