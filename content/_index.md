@@ -63,11 +63,11 @@ sections:
 #      columns: '1'
 #      view: citation
     
-  - block: accomplishments
-    content:
+#  - block: accomplishments
+#    content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
+#      title: 'Accomplish&shy;ments'
+#      subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
@@ -75,26 +75,26 @@ sections:
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-    design:
-      columns: '2'
+#      items:
+#        - certificate_url: https://www.coursera.org
+#          date_end: ''
+#          date_start: '2021-01-25'
+#          description: ''
+#          icon: coursera
+#          organization: Coursera
+#          organization_url: https://www.coursera.org
+#          title: Neural Networks and Deep Learning
+#          url: ''
+#    design:
+#      columns: '2'
   
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
+  # - block: portfolio
+  #  id: projects
+  #  content:
+  #    title: Projects
+  #    filters:
+  #      folders:
+  #        - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -102,17 +102,17 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
-    design:
+    #  buttons:
+    #    - name: All
+    #      tag: '*'
+    #    - name: Deep Learning
+    #      tag: Deep Learning
+    #    - name: Other
+    #      tag: Demo
+   # design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
+   #   columns: '1'
+   #   view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+   #   flip_alt_rows: false
 ---
