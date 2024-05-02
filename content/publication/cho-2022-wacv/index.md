@@ -3,7 +3,7 @@ title: Pixel-Level Bijective Matching for Video Object Segmentation
 authors:
 - Suhwan Cho
 - Heansung Lee
-- Minjung Kim
+- admin
 - Sungjun Jang
 - Sangyoun Lee
 date: '2022-01-01'
@@ -12,4 +12,5 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the IEEE/CVF Winter Conference on Applications of Computer
   Vision (WACV)*'
+featured: true
 ---
