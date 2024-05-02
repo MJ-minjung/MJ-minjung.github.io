@@ -56,12 +56,12 @@ sections:
       columns: '1'
       view: compact
     
-  - block: collection
-    content:
-      title: Publications
-    design:
-      columns: '1'
-      view: citation
+#  - block: collection
+#    content:
+#      title: Publications
+#    design:
+#      columns: '1'
+#      view: citation
     
   - block: accomplishments
     content:
