@@ -11,4 +11,5 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the IEEE/CVF Winter Conference on Applications of Computer
   Vision (WACV)*'
+featured: true
 ---
