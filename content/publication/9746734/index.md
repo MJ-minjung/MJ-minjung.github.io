@@ -18,4 +18,8 @@ tags:
 - Adaptive systems;Conferences;Focusing;Interference;Signal processing;Benchmark testing;Cameras;Occluded
   Person Re-Identification;Relation Network;Person Re-Identification;Deep Learning
 featured: true
+summary: ICASSP 2022
+links: 
+- name: Preprint
+  url: https://ieeexplore.ieee.org/abstract/document/9746734/
 ---
