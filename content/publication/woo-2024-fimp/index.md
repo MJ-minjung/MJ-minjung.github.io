@@ -14,6 +14,7 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2401.16189
 featured: true
+summary: ICRA 2024
 image:
   caption: ''
   focal_point: ''
