@@ -15,9 +15,5 @@ publication_short: "PR"
 
 summary: [Under Review], (IF=8.0)
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
 ---
 
