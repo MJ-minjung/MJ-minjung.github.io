@@ -13,8 +13,8 @@ publication_types:
 - article-journal
 publication: '*Sensors*'
 links:
-- name: URL
+- name: Preprint
   url: https://www.mdpi.com/1424-8220/24/7/2229
 featured: true
-summary: Sensors2024
+summary: Sensors 2024
 ---
