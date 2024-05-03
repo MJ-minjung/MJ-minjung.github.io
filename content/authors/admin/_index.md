@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.S./ Ph.D. in Electrical and Electronic Engineering
+    - course: M.S. & Ph.D. in Electrical and Electronic Engineering
       institution: Yonsei University
       year: 2025 (expected)
     - course: B.S. in Electronic Engineering
@@ -71,7 +71,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mjkima00@gmail.com
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
