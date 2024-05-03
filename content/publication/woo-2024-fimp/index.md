@@ -11,7 +11,7 @@ publishDate: '2024-05-02T14:49:52.418256Z'
 publication_types:
 - manuscript
 links:
-- name: arXiv
+- name: Preprint
   url: https://arxiv.org/abs/2401.16189
 featured: true
 summary: ICRA 2024
