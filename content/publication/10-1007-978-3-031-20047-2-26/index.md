@@ -14,4 +14,8 @@ publication_types:
 - paper-conference
 publication: '*Computer Vision -- ECCV 2022*'
 featured: true
+summary: ECCV 2022
+links:
+- name: Preprint
+  url: https://link.springer.com/chapter/10.1007/978-3-031-20047-2_26
 ---
