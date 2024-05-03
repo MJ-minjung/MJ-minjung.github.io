@@ -13,4 +13,8 @@ publication_types:
 publication: '*Proceedings of the IEEE/CVF Winter Conference on Applications of Computer
   Vision (WACV)*'
 featured: true
+summary: WACV 2022
+links:
+- name: Preprint
+  url: https://openaccess.thecvf.com/content/WACV2022/html/Cho_Pixel-Level_Bijective_Matching_for_Video_Object_Segmentation_WACV_2022_paper.html
 ---
