@@ -16,4 +16,5 @@ links:
 - name: URL
   url: https://www.mdpi.com/1424-8220/24/7/2229
 featured: true
+summary: Sensors2024
 ---
