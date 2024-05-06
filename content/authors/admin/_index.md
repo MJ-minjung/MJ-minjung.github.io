@@ -25,7 +25,7 @@ organizations:
     url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently pursuing a Ph.D. at Yonsei University (MVP-Lab), specializing in computer vision. I am supported by LG Electronics' research scholarship. 
+bio:  
 
 # Interests to show in About widget
 # interests:
@@ -65,5 +65,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-# I am currently pursing a Ph.D. at Yonsei University (MVP-Lab), specializing in computer vision. I am supported by LG Electronics' research scholarship. 
+I am currently pursuing a Ph.D. at Yonsei University (MVP-Lab), specializing in computer vision. I am supported by LG Electronics' research scholarship.
 # {style="text-align: justify;"}
