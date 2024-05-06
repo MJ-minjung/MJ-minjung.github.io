@@ -65,7 +65,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently pursuing a Ph.D. at Yonsei University (MVP-Lab), specializing in computer vision. I am supported by LG Electronics' research scholarship.
+I am currently pursuing a Ph.D. at Yonsei University ([MVP-Lab](http://mvp.yonsei.ac.kr/)), specializing in computer vision. I am supported by LG Electronics' research scholarship.
 
 I am interested in proposing task-specific, innovative methodologies with the ultimate goal of building reliable machine-learning systems.
 
