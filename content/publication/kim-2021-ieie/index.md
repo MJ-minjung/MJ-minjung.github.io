@@ -2,7 +2,7 @@
 title: Semantic Segmentation Using Class Distribution Information
 authors:
 - admin
-- Hyungmin and Lee
+- Hyungmin Lee
 - Taeoh Kim
 - Sangyoun Lee
 date: '2021-06-01'
@@ -11,8 +11,10 @@ publication_types:
 - manuscript
 publication: '*Summer Annual Conference of IEIE*'
 featured: true
-summary: IEIE 2021
-links:
-- name: Preprint
-  url: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10448109&googleIPSandBox=false&mark=0&ipRange=false&b2cLoginYN=false&aiChatView=B&readTime=5-10&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true
+url_preprint: https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10448109&googleIPSandBox=false&mark=0&ipRange=false&b2cLoginYN=false&aiChatView=B&readTime=5-10&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true
+summary: "<p> <em><a href='https://conf.theieie.org/2021s/'>IEIE 2021</a></em> </p>"
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 ---
