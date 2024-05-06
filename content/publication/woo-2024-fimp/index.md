@@ -12,7 +12,7 @@ publication_types:
 - manuscript
 url_preprint: https://arxiv.org/abs/2401.16189
 featured: true
-summary: "<p> <span style=\"font-style: italic;\"> </span> </p>"
+summary: "<p> <em>italic</em> </p>"
 image:
   caption: ''
   focal_point: ''
