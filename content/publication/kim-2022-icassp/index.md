@@ -2,7 +2,7 @@
 title: Occluded Person Re-Identification Via Relational Adaptive Feature Correction
   Learning
 authors:
-- Minjung Kim
+- admin
 - MyeongAh Cho
 - Heansung Lee
 - Suhwan Cho
@@ -13,8 +13,10 @@ publication_types:
 - paper-conference
 publication: '*ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech
   and Signal Processing (ICASSP)*'
-doi: 10.1109/ICASSP43922.2022.9746734
-tags:
-- Adaptive systems;Conferences;Focusing;Interference;Signal processing;Benchmark testing;Cameras;Occluded
-  Person Re-Identification;Relation Network;Person Re-Identification;Deep Learning
+url_preprint: https://ieeexplore.ieee.org/abstract/document/9746734/
+summary: "<p> <em><a href='https://2022.ieeeicassp.org/'>ICASSP 2022</a></em> </p>"
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 ---
