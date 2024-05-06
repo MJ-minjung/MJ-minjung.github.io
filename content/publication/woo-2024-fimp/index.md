@@ -12,7 +12,7 @@ publication_types:
 - manuscript
 url_preprint: https://arxiv.org/abs/2401.16189
 featured: true
-summary: "<p> <em>italic</em> </p>"
+summary: "<p> <em> [ICRA 2024](https://2024.ieee-icra.org/) </em> </p>"
 image:
   caption: ''
   focal_point: ''
