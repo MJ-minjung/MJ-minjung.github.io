@@ -66,4 +66,12 @@ social:
 highlight_name: true
 ---
 I am currently pursuing a Ph.D. at Yonsei University (MVP-Lab), specializing in computer vision. I am supported by LG Electronics' research scholarship.
+
+My expertise spans: 
+- Image/Video Person Re-Identification 
+- Video Temporal Grounding
+- 2D Image-3D Shape Retrieval
+- Self-supervised Learning
+- Multimodal Learning
+
 # {style="text-align: justify;"}
