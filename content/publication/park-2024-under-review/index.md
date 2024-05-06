@@ -1,6 +1,5 @@
 ---
-title: Fast Video Anomaly Detection via Context-aware Shortcut Exploration and Abnormal
-  Feature Distance Learning
+title: Fast Video Anomaly Detection via ~
 authors:
 - Chaewon Park
 - Donghyeong Kim
