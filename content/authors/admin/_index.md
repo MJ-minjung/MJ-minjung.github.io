@@ -25,13 +25,11 @@ organizations:
     url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 
+bio: I am currently pursuing a Ph.D. at Yonsei University (MVP-Lab), specializing in computer vision. I am supported by LG Electronics' research scholarship. 
 
 # Interests to show in About widget
-interests:
-  - 
-  - 
-  - 
+# interests:
+#  - 
 
 # Education to show in About widget
 education:
@@ -42,27 +40,6 @@ education:
     - course: B.S. in Electronic Engineering
       institution: Hanyang University
       year: 2020
-
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-# skills:
-#  - name: Technical
-#    items:
-#      - name: Python
-#        description: ''
-#        percent: 80
-#        icon: python
-#        icon_pack: fab
-#      - name: Data Science
-#        description: ''
-#        percent: 100
-#        icon: chart-line
-#        icon_pack: fas
-#      - name: SQL
-#        description: ''
-#        percent: 40
-#        icon: database
-#       icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -88,5 +65,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Ph.D. candidate at Yonsei University (Image and Video Pattern Recognition Lab), advised by Prof. Sangyoun Lee. 
-{style="text-align: justify;"}
+# I am currently pursing a Ph.D. at Yonsei University (MVP-Lab), specializing in computer vision. I am supported by LG Electronics' research scholarship. 
+# {style="text-align: justify;"}
