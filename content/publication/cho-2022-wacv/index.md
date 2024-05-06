@@ -1,4 +1,4 @@
-![image](https://github.com/MJ-minjung/MJ-minjung.github.io/assets/168444134/91021de5-1e71-4c15-80a3-e16a6a8c4c48)---
+---
 title: Pixel-Level Bijective Matching for Video Object Segmentation
 authors:
 - Suhwan Cho
