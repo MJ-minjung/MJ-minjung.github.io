@@ -6,7 +6,7 @@ authors:
 - Minhyeok Lee
 - Chaewon Park
 - Sungjun Jang
-- Minjung Kim
+- admin
 - Sangyoun Lee
 date: '2022-01-01'
 publishDate: '2024-05-06T09:03:25.479979Z'
